@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ## Data
-We test our method for five public datasets, e.g., ```SWaT```, ```PSM```, ```MSL```, "SMAP","NTW" and ```SMD```.
+We test our method for six public datasets, e.g., "SWaT", "PSM", "MSL", "SMAP","NTW" and "SMD".
 
 [`SWaT`](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat)
 [`PSM`](https://github.com/tuananhphamds/MST-VAE)
