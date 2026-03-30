@@ -14,7 +14,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 from datetime import datetime
 
-from models.MTGFLOW3 import MTGFLOWZL
+from models.UMK import MTGFLOWZL
 
 import numpy as np
 
